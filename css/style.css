@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  box-sizing: border-box;
+}
+.container{
+  margin: 100px;
+  background-color: aqua;
+}
+
+form input[type="number"]{
+  color: black;
+	padding: 5px;
+	border: none;
+	border-bottom: 1px solid rgb(119, 118, 118);
+  width: 100%;
+  outline: none;
+  margin-bottom: 20px;
+}
+.formulario{
+  margin: 100px;
+}
+h2{
+  text-align: center;
+}
